@@ -110,26 +110,3 @@ This project is licensed under the **MIT License** – you're free to use, modif
 
 If you encounter any issues or have feature requests, feel free to open an issue on GitHub or reach out. 💬
 
----
-
-## 🔄 How to Commit & Push Changes?
-
-If you make any updates to this project, follow these steps to commit and push your changes:
-
-1️⃣ **Add modified files to git:**
-```bash
-git add .
-```
-
-2️⃣ **Commit changes with a message:**
-```bash
-git commit -m "Updated README with full documentation"
-```
-
-3️⃣ **Push changes to GitHub:**
-```bash
-git push origin main
-```
-
----
-```

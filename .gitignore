@@ -11,3 +11,10 @@ logs/
 output/
 
 .scripts
+
+__pycache__/
+venv
+*.pyc
+logs/*.log
+
+

@@ -1,0 +1,16 @@
+[
+    {
+      "rule_name": "Suspicious TCP Flag FIN-URG",
+      "proto": 6,
+      "tcp_flags": ["FIN", "URG"],
+      "action": "alert"
+    },
+    {
+      "rule_name": "DNS Tunneling Suspicion",
+      "proto": 17,
+      "dst_port": 53,
+      "max_packet_count": 100,
+      "time_window": 10
+    }
+  ]
+  

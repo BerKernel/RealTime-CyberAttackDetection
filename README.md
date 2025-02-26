@@ -10,3 +10,4 @@ This project demonstrates how to train a machine learning model (Random Forest) 
 
 ## Project Structure
 
+MyProject/ ├── data/ │ └── dataset.csv ├── main.py ├── requirements.txt └── README.md
